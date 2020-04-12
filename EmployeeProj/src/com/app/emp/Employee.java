@@ -22,4 +22,7 @@ public class Employee {
 	public int sub(int a, int b) {
 		return a - b;
 	}
+	public static void m1() {
+		System.out.println("Hello This m1 method ");
+	}
 }
